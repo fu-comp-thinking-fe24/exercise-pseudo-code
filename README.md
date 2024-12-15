@@ -1,4 +1,4 @@
-# Computational_Thinking_Games
+# Pseudokod: Computational Thinking Games
 
 Se tillbaks på dina tidigare lösningar där du applicerat det datalogiska tänkandets fyra delprocesser på nedanstående spel.
 Nu är det dags att skapa pseudokod baserat på era flödesdiagram!
